@@ -1,0 +1,17 @@
+{
+  "name": "rasmussen-solutions",
+  "description": "Claude plugins from Rasmussen Solutions ApS.",
+  "owner": {
+    "name": "Rasmussen Solutions ApS",
+    "email": "support@trackrs.dk",
+    "url": "https://trackrs.dk"
+  },
+  "plugins": [
+    {
+      "name": "trackrs",
+      "source": ".",
+      "description": "Find, move and report on tools and equipment in Trackrs from a conversation.",
+      "category": "productivity"
+    }
+  ]
+}

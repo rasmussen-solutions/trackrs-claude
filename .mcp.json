@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trackrs": {
+      "type": "http",
+      "url": "https://trackrs.dk/mcp"
+    }
+  }
+}

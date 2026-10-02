@@ -1,0 +1,31 @@
+{
+  "name": "trackrs",
+  "displayName": "Trackrs",
+  "version": "1.0.0",
+  "description": "Find, move and report on tools and equipment in Trackrs from a conversation: create locations, assign equipment to projects, get weekly missing-tools reports and see what is due for service. / Find, flyt og rapportér på værktøj og udstyr i Trackrs direkte fra en samtale.",
+  "author": {
+    "name": "Rasmussen Solutions ApS",
+    "email": "support@trackrs.dk",
+    "url": "https://trackrs.dk"
+  },
+  "homepage": "https://trackrs.dk",
+  "repository": "https://github.com/rasmussen-solutions/trackrs-claude",
+  "license": "MIT",
+  "keywords": [
+    "trackrs",
+    "equipment",
+    "tools",
+    "tool-tracking",
+    "asset-management",
+    "rfid",
+    "construction",
+    "service",
+    "værktøj",
+    "udstyr"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://github.com/rasmussen-solutions/trackrs-claude#readme",
+  "supportUrl": "https://trackrs.dk/en/contact.html",
+  "privacyPolicyUrl": "https://trackrs.dk/en/privacy.html",
+  "termsOfServiceUrl": "https://trackrs.dk/en/terms.html"
+}
